@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="service.ServiceTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2024-09-27T01:49:04" hostname="MILY" time="0.472">
+  <properties/>
+  <testcase name="testListagemCarros()" classname="service.ServiceTest" time="0.032"/>
+  <testcase name="testInserirCarro()" classname="service.ServiceTest" time="0.098"/>
+  <testcase name="testAtualizarCarro()" classname="service.ServiceTest" time="0.003"/>
+  <testcase name="testBuscarCarro()" classname="service.ServiceTest" time="0.005"/>
+  <testcase name="testExcluirCarro()" classname="service.ServiceTest" time="0.002"/>
+  <testcase name="testValidacaoInsercaoCarro()" classname="service.ServiceTest" time="0.018"/>
+  <testcase name="testValidacaoListagemCarrosComAPI()" classname="service.ServiceTest" time="0.005"/>
+  <testcase name="testInsercaoCarroComApiExterna()" classname="service.ServiceTest" time="0.254"/>
+  <testcase name="testAtualizacaoCarroViaApi()" classname="service.ServiceTest" time="0.003"/>
+  <testcase name="testValidacaoInsercaoCarroComObjectMapper()" classname="service.ServiceTest" time="0.044"/>
+  <system-out><![CDATA[[{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.27989782158466636"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.7778696809396274"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.4146957682883158"}]
+{"id":1,"modelo":"Fusca Atualizado","placa":"DEF-5678"}
+[{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":2,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":4,"modelo":null,"placa":null},{"id":5,"modelo":"Corolla","placa":"20000"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.27989782158466636"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.7778696809396274"},{"id":3,"modelo":"Corolla","placa":"20000"},{"id":7,"modelo":"Corolla","placa":"PLACA0.4146957682883158"}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
